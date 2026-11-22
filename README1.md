@@ -58,4 +58,4 @@ MySQL 8.0, MySQL Workbench
 
 ## Author
 
-*Your name* | [LinkedIn](https://www.linkedin.com/) | [Portfolio](https://github.com/)
+*Okoro David-Victory* | [LinkedIn[](https://www.linkedin.com/in/david-victory-okoro-19b0b8414/)) | [Portfolio](https://github.com/David-Victory/)
